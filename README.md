@@ -1,4 +1,4 @@
-Hi 👋 My name is Jonathan Wong
+Hi 👋 My name is Jonathan
 ==============================
 
 Frontend Developer
