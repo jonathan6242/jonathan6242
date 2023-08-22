@@ -4,7 +4,7 @@ Hi 👋 My name is Jonathan
 Frontend Developer
 ------------------
 
-I have been learning web development for 1 year and am looking for a job in the industry.
+I have been learning web development for 2 years and am looking for a job in the industry.
 
 * 🌍  I'm based in Sydney
 * 🖥️  See my portfolio at [jonathanfwong.com](http://jonathanfwong.com)
